@@ -1,0 +1,38 @@
+/* Navbar settings */
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: bolder;
+    color: white;
+}
+
+.nav-link {
+    color: white;
+    font-size: 16px;
+}
+
+.navbar {
+    background-color: navy;
+}
+
+/* Content settings */
+
+.header {
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", sans-serif;
+    text-align: center;
+    font-weight: 500;
+}
+
+.text {
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.movies-series {
+    width: 250px;
+}
+
+td{
+    padding: 10px;
+}

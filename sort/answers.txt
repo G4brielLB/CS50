@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: The difference between the Big-O and Big-Ω in the sort1 is clear. When the array of numbers is not sorted, this method of sort takes the highest time to solve (Big-O). In the other hand, when the array is already sorted, sort1 takes the lowest time to solve the problem (Big-Ω). And the method of sort that has Big-Ω and Big-O different, is the Bubble Sort.
+
+sort2 uses: Merge sort
+
+How do you know?: Comparing the sort2 with the other sorts (1 and 3), sort2 is clearly faster in every case, independent if the array is random, reversed or sorted, it always takes short time to finish the sort. And in the three sort methods that we learned in lecture, the merge sort is the faster, with Θ(n * log n). 
+
+sort3 uses: Selection sort
+
+How do you know?: The sort3 takes long time to sort the arrays, and have no difference between Big-O and Big-Ω. The selection sort takes long times as well, with both Big-O and Big-Ω based on n squared, so that is why you can relate sort3 to selection sort.
